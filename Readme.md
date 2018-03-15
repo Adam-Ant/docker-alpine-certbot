@@ -1,3 +1,6 @@
+# DEPRECATED
+## This dockerfile has been replaced by much better things. Check out [Acme.sh](https://acme.sh) for a reliable LetsEncrypt program
+
 # Alpine Certbot
 
 A very simple dockerfile used for auto or manual certbot renewal.
